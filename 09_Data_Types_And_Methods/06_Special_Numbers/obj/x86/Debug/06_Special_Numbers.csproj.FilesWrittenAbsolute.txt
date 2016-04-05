@@ -1,0 +1,5 @@
+/home/ralvane/CSharp/SU_ProgrammingBasics/09_Data_Types_And_Methods/06_Special_Numbers/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/home/ralvane/CSharp/SU_ProgrammingBasics/09_Data_Types_And_Methods/06_Special_Numbers/bin/Debug/06_Special_Numbers.exe.mdb
+/home/ralvane/CSharp/SU_ProgrammingBasics/09_Data_Types_And_Methods/06_Special_Numbers/bin/Debug/06_Special_Numbers.exe
+/home/ralvane/CSharp/SU_ProgrammingBasics/09_Data_Types_And_Methods/06_Special_Numbers/obj/x86/Debug/06_Special_Numbers.exe
+/home/ralvane/CSharp/SU_ProgrammingBasics/09_Data_Types_And_Methods/06_Special_Numbers/obj/x86/Debug/06_Special_Numbers.exe.mdb

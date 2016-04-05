@@ -1,0 +1,12 @@
+﻿<Properties StartupItem="06_Special_Numbers/06_Special_Numbers.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="06_Special_Numbers/Program.cs">
+    <Files>
+      <File FileName="06_Special_Numbers/Program.cs" Line="34" Column="14" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

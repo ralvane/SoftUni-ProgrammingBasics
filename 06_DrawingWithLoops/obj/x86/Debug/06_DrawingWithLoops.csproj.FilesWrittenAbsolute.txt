@@ -1,0 +1,5 @@
+/home/ralvane/CSharp/SU_ProgrammingBasics/06_DrawingWithLoops/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/home/ralvane/CSharp/SU_ProgrammingBasics/06_DrawingWithLoops/bin/Debug/06_DrawingWithLoops.exe.mdb
+/home/ralvane/CSharp/SU_ProgrammingBasics/06_DrawingWithLoops/bin/Debug/06_DrawingWithLoops.exe
+/home/ralvane/CSharp/SU_ProgrammingBasics/06_DrawingWithLoops/obj/x86/Debug/06_DrawingWithLoops.exe
+/home/ralvane/CSharp/SU_ProgrammingBasics/06_DrawingWithLoops/obj/x86/Debug/06_DrawingWithLoops.exe.mdb

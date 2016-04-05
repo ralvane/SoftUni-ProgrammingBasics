@@ -1,0 +1,5 @@
+/home/ralvane/CSharp/SU_ProgrammingBasics/09_Data_Types_And_Methods/05_Elevator/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/home/ralvane/CSharp/SU_ProgrammingBasics/09_Data_Types_And_Methods/05_Elevator/bin/Debug/05_Elevator.exe.mdb
+/home/ralvane/CSharp/SU_ProgrammingBasics/09_Data_Types_And_Methods/05_Elevator/bin/Debug/05_Elevator.exe
+/home/ralvane/CSharp/SU_ProgrammingBasics/09_Data_Types_And_Methods/05_Elevator/obj/x86/Debug/05_Elevator.exe
+/home/ralvane/CSharp/SU_ProgrammingBasics/09_Data_Types_And_Methods/05_Elevator/obj/x86/Debug/05_Elevator.exe.mdb

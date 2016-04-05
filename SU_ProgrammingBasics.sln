@@ -1,0 +1,47 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01_FirstSteps", "01_FirstSteps\01_FirstSteps.csproj", "{B6425C5D-D05D-4BB4-91C2-A28184D269C4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02_SimpleArithmetics", "02_SimpleArithmetics\02_SimpleArithmetics.csproj", "{5E3CA62B-F3DF-4C24-A6A0-C9B0D903BB91}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03_LogicalConditions", "03_LogicalConditions\03_LogicalConditions.csproj", "{8497610A-1497-4E32-9233-FC7195D70E0D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04_AdvancedLogicalConditions", "04_AdvancedLogicalConditions\04_AdvancedLogicalConditions.csproj", "{5D38D18B-E0F0-44E5-8437-34FC1F5162BC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05_Loops", "05_Loops\05_Loops.csproj", "{F2FC70E8-5FF8-44AA-84EA-C6FD89148D2E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06_DrawingWithLoops", "06_DrawingWithLoops\06_DrawingWithLoops.csproj", "{3BD55F4C-4DDD-4977-AB73-15325B90973F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3BD55F4C-4DDD-4977-AB73-15325B90973F}.Debug|x86.ActiveCfg = Debug|x86
+		{3BD55F4C-4DDD-4977-AB73-15325B90973F}.Debug|x86.Build.0 = Debug|x86
+		{3BD55F4C-4DDD-4977-AB73-15325B90973F}.Release|x86.ActiveCfg = Release|x86
+		{3BD55F4C-4DDD-4977-AB73-15325B90973F}.Release|x86.Build.0 = Release|x86
+		{5D38D18B-E0F0-44E5-8437-34FC1F5162BC}.Debug|x86.ActiveCfg = Debug|x86
+		{5D38D18B-E0F0-44E5-8437-34FC1F5162BC}.Debug|x86.Build.0 = Debug|x86
+		{5D38D18B-E0F0-44E5-8437-34FC1F5162BC}.Release|x86.ActiveCfg = Release|x86
+		{5D38D18B-E0F0-44E5-8437-34FC1F5162BC}.Release|x86.Build.0 = Release|x86
+		{5E3CA62B-F3DF-4C24-A6A0-C9B0D903BB91}.Debug|x86.ActiveCfg = Debug|x86
+		{5E3CA62B-F3DF-4C24-A6A0-C9B0D903BB91}.Debug|x86.Build.0 = Debug|x86
+		{5E3CA62B-F3DF-4C24-A6A0-C9B0D903BB91}.Release|x86.ActiveCfg = Release|x86
+		{5E3CA62B-F3DF-4C24-A6A0-C9B0D903BB91}.Release|x86.Build.0 = Release|x86
+		{8497610A-1497-4E32-9233-FC7195D70E0D}.Debug|x86.ActiveCfg = Debug|x86
+		{8497610A-1497-4E32-9233-FC7195D70E0D}.Debug|x86.Build.0 = Debug|x86
+		{8497610A-1497-4E32-9233-FC7195D70E0D}.Release|x86.ActiveCfg = Release|x86
+		{8497610A-1497-4E32-9233-FC7195D70E0D}.Release|x86.Build.0 = Release|x86
+		{B6425C5D-D05D-4BB4-91C2-A28184D269C4}.Debug|x86.ActiveCfg = Debug|x86
+		{B6425C5D-D05D-4BB4-91C2-A28184D269C4}.Debug|x86.Build.0 = Debug|x86
+		{B6425C5D-D05D-4BB4-91C2-A28184D269C4}.Release|x86.ActiveCfg = Release|x86
+		{B6425C5D-D05D-4BB4-91C2-A28184D269C4}.Release|x86.Build.0 = Release|x86
+		{F2FC70E8-5FF8-44AA-84EA-C6FD89148D2E}.Debug|x86.ActiveCfg = Debug|x86
+		{F2FC70E8-5FF8-44AA-84EA-C6FD89148D2E}.Debug|x86.Build.0 = Debug|x86
+		{F2FC70E8-5FF8-44AA-84EA-C6FD89148D2E}.Release|x86.ActiveCfg = Release|x86
+		{F2FC70E8-5FF8-44AA-84EA-C6FD89148D2E}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+EndGlobal

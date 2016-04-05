@@ -1,0 +1,6 @@
+/home/ralvane/CSharp/ProgrammingBasics1/GUI_App/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/home/ralvane/CSharp/ProgrammingBasics1/GUI_App/obj/x86/Debug/GUI_App.gtk-gui.gui.stetic
+/home/ralvane/CSharp/ProgrammingBasics1/GUI_App/bin/Debug/GUI_App.exe.mdb
+/home/ralvane/CSharp/ProgrammingBasics1/GUI_App/bin/Debug/GUI_App.exe
+/home/ralvane/CSharp/ProgrammingBasics1/GUI_App/obj/x86/Debug/GUI_App.exe
+/home/ralvane/CSharp/ProgrammingBasics1/GUI_App/obj/x86/Debug/GUI_App.exe.mdb

@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project DefaultTargets="Build" ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <ProjectGuid>{D8AE9F29-F06E-4CCD-97A8-9B0615FE79FC}</ProjectGuid>
+    <OutputType>Exe</OutputType>
+    <RootNamespace>ProgrammingBasics3</RootNamespace>
+    <AssemblyName>ProgrammingBasics3</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug</OutputPath>
+    <DefineConstants>DEBUG;</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <Externalconsole>true</Externalconsole>
+    <PlatformTarget>x86</PlatformTarget>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <DebugType>full</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release</OutputPath>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <Externalconsole>true</Externalconsole>
+    <PlatformTarget>x86</PlatformTarget>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Properties\AssemblyInfo.cs" />
+  </ItemGroup>
+  <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
+  <ItemGroup>
+    <None Include="Ex ellentResult.cs" />
+    <None Include="ExcellentOrNot.cs" />
+    <None Include="OddOrEven.cs" />
+    <None Include="GreaterNumber.cs" />
+    <None Include="NumberToText.cs" />
+    <None Include="BonusScore_v2.cs" />
+    <None Include="BonusScore.cs" />
+    <None Include="SumSeconds.cs" />
+    <None Include="MetricConverter.cs" />
+    <None Include="PasswordGuess.cs" />
+    <None Include="Number_100_200.cs" />
+    <None Include="EqualWords.cs" />
+    <None Include="SpeedInfo.cs" />
+    <None Include="AreaOfFigures.cs" />
+    <None Include="Time_15Minutes.cs" />
+    <None Include="ThreeEqualNumbers.cs" />
+    <None Include="NumbersToStrings.cs" />
+  </ItemGroup>
+</Project>

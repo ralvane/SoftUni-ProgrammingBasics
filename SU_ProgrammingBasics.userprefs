@@ -1,0 +1,30 @@
+﻿<Properties StartupItem="06_DrawingWithLoops/06_DrawingWithLoops.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="06_DrawingWithLoops/10_Diamond.cs">
+    <Files>
+      <File FileName="06_DrawingWithLoops/01_Rectangle_10x10.cs" Line="12" Column="2" />
+      <File FileName="06_DrawingWithLoops/02_Rectangle_NxN.cs" Line="5" Column="3" />
+      <File FileName="06_DrawingWithLoops/03_Square_of_stars.cs" Line="11" Column="24" />
+      <File FileName="06_DrawingWithLoops/04_Triangle_of_dollars.cs" Line="7" Column="25" />
+      <File FileName="06_DrawingWithLoops/05_Square_frame.cs" Line="12" Column="14" />
+      <File FileName="06_DrawingWithLoops/06_Rhombus_of_stars.cs" Line="25" Column="5" />
+      <File FileName="06_DrawingWithLoops/07_Christmas_tree.cs" Line="11" Column="19" />
+      <File FileName="06_DrawingWithLoops/08_Sunglasses.cs" Line="13" Column="24" />
+      <File FileName="06_DrawingWithLoops/09_House.cs" Line="23" Column="3" />
+      <File FileName="06_DrawingWithLoops/10_Diamond.cs" Line="16" Column="24" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="SU_ProgrammingBasics" expanded="True">
+            <Node name="06_DrawingWithLoops" expanded="True" selected="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
